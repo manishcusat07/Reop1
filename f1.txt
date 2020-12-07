@@ -1,4 +1,8 @@
 jjjfjfjfhiS
+<<<<<<< HEAD
 g1
 g2
 g3
+=======
+g1
+>>>>>>> parent of 1117ae7... C2
