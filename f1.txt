@@ -1,12 +1,4 @@
 jjjfjfjfhiS
-<<<<<<< HEAD
 g1
-<<<<<<< HEAD
 g2
 g3
-=======
-g1
->>>>>>> parent of 1117ae7... C2
-=======
-g2
->>>>>>> parent of ed58852... C3
