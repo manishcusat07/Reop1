@@ -4,3 +4,6 @@ this another feature 2.1
 x-2.1
 y2.1
 z2.1
+feature2.2
+feature2.2+
+feature2.2
